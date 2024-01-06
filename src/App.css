@@ -1,10 +1,14 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.main{
+  height: 100vh;
+  background-image: url('/image/4002676.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media (prefers-reduced-motion: no-preference) {
