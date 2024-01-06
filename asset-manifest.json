@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TodoList-Redux/static/css/main.4a1588b2.css",
-    "main.js": "/TodoList-Redux/static/js/main.239583f8.js",
-    "static/js/787.f4a57a7d.chunk.js": "/TodoList-Redux/static/js/787.f4a57a7d.chunk.js",
-    "static/media/4002676.jpg": "/TodoList-Redux/static/media/4002676.58b80df46faaa9cd2dbc.jpg",
-    "index.html": "/TodoList-Redux/index.html",
-    "main.4a1588b2.css.map": "/TodoList-Redux/static/css/main.4a1588b2.css.map",
-    "main.239583f8.js.map": "/TodoList-Redux/static/js/main.239583f8.js.map",
-    "787.f4a57a7d.chunk.js.map": "/TodoList-Redux/static/js/787.f4a57a7d.chunk.js.map"
+    "main.css": "/ToDo-Redux/static/css/main.90c22565.css",
+    "main.js": "/ToDo-Redux/static/js/main.df7651d2.js",
+    "static/js/787.f4a57a7d.chunk.js": "/ToDo-Redux/static/js/787.f4a57a7d.chunk.js",
+    "static/media/4002676.jpg": "/ToDo-Redux/static/media/4002676.58b80df46faaa9cd2dbc.jpg",
+    "index.html": "/ToDo-Redux/index.html",
+    "main.90c22565.css.map": "/ToDo-Redux/static/css/main.90c22565.css.map",
+    "main.df7651d2.js.map": "/ToDo-Redux/static/js/main.df7651d2.js.map",
+    "787.f4a57a7d.chunk.js.map": "/ToDo-Redux/static/js/787.f4a57a7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a1588b2.css",
-    "static/js/main.239583f8.js"
+    "static/css/main.90c22565.css",
+    "static/js/main.df7651d2.js"
   ]
 }
